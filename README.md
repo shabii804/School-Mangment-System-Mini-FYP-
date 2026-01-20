@@ -13,7 +13,7 @@ The School Management System is designed to automate and simplify daily school o
 All data is stored locally using **CSV files**, making the project lightweight, portable, and easy to understand for academic evaluation.
 
 ---
-
+![alt text](src/Pic/1.PNG)
 ## 👥 User Roles & Features
 
 ### 🔐 Admin Panel
@@ -31,7 +31,7 @@ All data is stored locally using **CSV files**, making the project lightweight, 
 * Attendence record and marks record
 * Analyse student and Techers
 * Fee reciption and fee histroy
-
+![alt text](src/Pic/2.png)
 ### 👨‍🏫 Teacher Panel
 
 * Secure teacher login
@@ -41,6 +41,7 @@ All data is stored locally using **CSV files**, making the project lightweight, 
 * View student performance
 * View Assign class
 * Assignment validation (max 3 subjects per teacher)
+![alt text](src/Pic/3.png)
 
 ### 🎒 Student Panel
 
@@ -51,8 +52,7 @@ All data is stored locally using **CSV files**, making the project lightweight, 
 * View subject-wise marks
 * View fee status (paid / pending)
 * Change password
-
----
+![alt text](src/Pic/4.png)
 
 ## 💾 Data Storage Design
 
