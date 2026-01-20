@@ -14,6 +14,7 @@ All data is stored locally using **CSV files**, making the project lightweight, 
 
 ---
 
+![alt text](Capture.PNG)
 ## 👥 User Roles & Features
 
 ### 🔐 Admin Panel
@@ -31,7 +32,7 @@ All data is stored locally using **CSV files**, making the project lightweight, 
 * Attendence record and marks record
 * Analyse student and Techers
 * Fee reciption and fee histroy
-
+![alt text](<Screenshot (47).png>)
 ### 👨‍🏫 Teacher Panel
 
 * Secure teacher login
@@ -41,6 +42,7 @@ All data is stored locally using **CSV files**, making the project lightweight, 
 * View student performance
 * View Assign class
 * Assignment validation (max 3 subjects per teacher)
+![alt text](<Screenshot (49).png>)
 
 ### 🎒 Student Panel
 
@@ -51,7 +53,7 @@ All data is stored locally using **CSV files**, making the project lightweight, 
 * View subject-wise marks
 * View fee status (paid / pending)
 * Change password
-
+![alt text](<Screenshot (50).png>)
 ---
 
 ## 💾 Data Storage Design
